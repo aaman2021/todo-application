@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(../Untitled-1.jpg);
+    height: 100%;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.delbtn{
+    background-color: aqua;
+    border: none;
+    border-radius: 17px;
+}
+
+.main {
+    background: linear-gradient(
+90deg
+, rgba(2,0,36,1) 0%, rgba(255,227,2,1) 0%, rgba(255,0,0,1) 98%);
+    width: max-content;
+    height: 500px;
+    padding: 8px;
+    border-radius: 5px;
+    
+}
